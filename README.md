@@ -34,7 +34,7 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 #### 🎭 Implementation
-![Microsoft SSRS](https://img.shields.io/badge/Microsoft%20SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white) Microsoft SSRS
+![Microsoft SSRS](https://img.shields.io/badge/Microsoft%20SSRS-CC2927?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
