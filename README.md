@@ -9,9 +9,9 @@
 ### 🛠️ Tech Stack
 
 #### 📂 Database
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) SQL Server
-- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) MySQL
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 #### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,13 +43,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📫 Contact Me
-- LinkedIn: [Your Profile](#)
-- Twitter: [@YourHandle](#)
-- Email: your.email@example.com
+- LinkedIn: 
+- Email: 
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noguize&show_icons=true&theme=radical)
-
-### ⚡ Fun Fact
-I love solving complex problems and contributing to open-source projects!
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolan78&show_icons=true&theme=radical)
 
