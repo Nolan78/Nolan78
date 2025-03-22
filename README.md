@@ -45,7 +45,7 @@
 
 ### 📫 Contact Me
 - LinkedIn:
-- Email: 
+- Email: web.noguize@gmail.com
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nolan78&show_icons=true&theme=radical)
